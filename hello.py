@@ -1,4 +1,2 @@
-for n in range(1,3):
-	for i in range(n):
-        print('*')
-    print("");
+for i in range(1,6):
+    print "*" * i
